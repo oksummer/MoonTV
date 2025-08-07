@@ -86,16 +86,22 @@
       "name": "小猫咪资源"
     },
     "ckzy": {
-      "api": "https://www.ckzy1.com",
-      "name": "CK资源"
+      "api": "https://ckzy.me/api.php/provide/vod",
+      "name": "CK资源",
+      "detail": "https://jkunzyapi.com",
+      "adult": true
     },
     "jkun": {
-      "api": "https://jkunzyapi.com",
-      "name": "jkun资源"
+      "api": "https://jkunzyapi.com/api.php/provide/vod",
+      "name": "jkun资源",
+      "detail": "https://www.ckzy1.com",
+      "adult": true
     },
     "bwzy": {
-      "api": "https://api.bwzym3u8.com",
-      "name": "百万资源"
+      "api": "https://api.bwzyz.com/api.php/provide/vod",
+      "name": "百万资源",
+      "detail": "https://api.bwzym3u8.com",
+      "adult": true
     },
     "souav": {
       "api": "https://api.souavzy.vip/api.php/provide/vod",
@@ -106,7 +112,8 @@
     "huangcang": {
       "api": "https://hsckzy888.com/api.php/provide/vod",
       "name": "黄色仓库",
-      "detail": "https://hsckzy.vip"
+      "detail": "https://hsckzy.vip",
+      "adult": true
     },
     "yutu": {
       "api": "https://apiyutu.com/api.php/providedao/vod",
@@ -140,9 +147,9 @@
       "query": "科幻"
     },
     {
-      "name": "情色",
+      "name": "恐怖",
       "type": "movie",
-      "query": "情色"
+      "query": "恐怖"
     },
     {
       "name": "纪录片",
