@@ -137,7 +137,22 @@
     {
       "name": "喜剧",
       "type": "movie",
-      "query": "动漫"
+      "query": "喜剧"
+    },
+    {
+      "name": "科幻",
+      "type": "movie",
+      "query": "科幻"
+    },
+    {
+      "name": "情色",
+      "type": "movie",
+      "query": "情色"
+    },
+    {
+      "name": "纪录片",
+      "type": "tv",
+      "query": "纪录片"
     }
   ]
 }
