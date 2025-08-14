@@ -132,11 +132,6 @@
   },
   "custom_category": [
     {
-      "name": "动漫",
-      "type": "tv",
-      "query": "动漫"
-    },
-    {
       "name": "喜剧",
       "type": "movie",
       "query": "喜剧"
